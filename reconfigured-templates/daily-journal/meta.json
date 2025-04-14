@@ -1,0 +1,6 @@
+{
+  "$schema": "../../schema/template-meta.json",
+  "title": "Daily Journal",
+  "description": "Track your work and progress",
+  "author": "reconfigured.io"
+}

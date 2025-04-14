@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Guide Metadata",
+  "description": "Schema for guide metadata files",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "Reference to the schema file"
+    },
+    "title": {
+      "type": "string",
+      "description": "The title of the guide"
+    },
+    "description": {
+      "type": "string",
+      "description": "A brief description of the guide"
+    },
+    "author": {
+      "type": "string",
+      "description": "The author of the guide"
+    }
+  },
+  "required": ["title", "description", "author"]
+}

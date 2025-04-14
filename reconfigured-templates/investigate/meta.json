@@ -1,0 +1,6 @@
+{
+  "$schema": "../../schema/template-meta.json",
+  "title": "Investigate",
+  "description": "Explore a question or problem",
+  "author": "reconfigured.io"
+}

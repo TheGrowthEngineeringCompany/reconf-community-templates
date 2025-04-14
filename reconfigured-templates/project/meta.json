@@ -1,0 +1,6 @@
+{
+  "$schema": "../../schema/template-meta.json",
+  "title": "Project Plan",
+  "description": "Organize tasks and milestones",
+  "author": "reconfigured.io"
+}
