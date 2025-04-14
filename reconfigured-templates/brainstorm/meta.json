@@ -2,5 +2,5 @@
   "$schema": "../../schema/template-meta.json",
   "title": "Brainstorm",
   "description": "Generate and explore ideas",
-  "author": "reconfigured.io"
+  "author": "reconfigured <support@reconfigured.io>"
 }
